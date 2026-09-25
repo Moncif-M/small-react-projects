@@ -1,0 +1,12 @@
+div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+}
+
+section {
+    padding: 20px;
+    border-radius: 5px;
+    background: red;
+}
