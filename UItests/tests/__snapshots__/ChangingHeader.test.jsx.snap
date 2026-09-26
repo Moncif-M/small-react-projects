@@ -1,0 +1,12 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`ChangingHeader component > renders Change me! 1`] = `
+<div>
+  <h1>
+    Change Me!
+  </h1>
+  <button>
+    Click me!
+  </button>
+</div>
+`;
